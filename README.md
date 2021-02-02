@@ -20,7 +20,7 @@ Setting koding di laravel 7 :
     MAIL_HOST=smtp.googlemail.com
     MAIL_PORT=465
     MAIL_USERNAME=adityacontoh2@gmail.com
-    MAIL_PASSWORD=aditya050398aditya
+    MAIL_PASSWORD=*******
     MAIL_ENCRYPTION=ssl
     MAIL_FROM_ADDRESS=adityacontoh2@gmail.com
     MAIL_FROM_NAME=noreply
